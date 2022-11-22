@@ -22,7 +22,10 @@ div {
     color: white;
     text-align: left;
     height: 300px;
-    line-height: 100px;
+    line-height: 30px;
+    width: 80%;
+    margin: auto;
+    padding: 15px;
     
 }
 p{
